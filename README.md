@@ -8,26 +8,26 @@
  <a href="https://t.me/denisfloyd"><img src="https://github.com/denisfloyd/denisfloyd/blob/main/.github/telegram.svg" width="30px" alt="ctftime"></a> &nbsp; &nbsp;
 </p>
 
-:rocket: FullStack Developer
-- Java
-- Nodejs
+:rocket: Frontend Developer
+- Javascript
+- Typescript
 - Angularjs
 - Angular 2+
-- React
+- Reactjs
 - React Native
-- Android (Native)
+- Nodejs
 
-<!--
-**denismend/denismend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr />
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on gobarber_web (dev tests)
-- 🌱 I’m currently learning React, Nodejs ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with Nestjs
-- 💬 Ask me about Javascript
-- 📫 How to reach me: den
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on E-core
+- 🌱 I’m currently learning React-Native ..
+- 👯 I’m looking to collaborate on public repos 
+- 🤔 I’m looking for help with 
+- 💬 Ask me about Javascript, Typescript, React ..
+- ⚡ Fun fact: I love Pink Floyd 🎸🎵
+
+<sub>
+ Obs. Unfornatunately my old github account was blocked by Github, this is my new one :)
+</sub>
+
