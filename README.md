@@ -20,7 +20,7 @@
 <hr />
 
 
-- 🔭 I’m currently working on E-core
+- 🔭 I’m currently working at E-core
 - 🌱 I’m currently learning React-Native ..
 - 👯 I’m looking to collaborate on public repos 
 - 🤔 I’m looking for help with 
