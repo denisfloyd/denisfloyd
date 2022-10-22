@@ -1,4 +1,5 @@
-## Hi, I'm <a href="https://linkedin.com/in/denis-ladeira-814365115/">Denis  <img src="https://github.com/denisfloyd/denisfloyd/blob/master/.github/hi.gif" width="30px" alt="hi"></a>
+## Hi, I'm <a href="https://linkedin.com/in/denis-ladeira-814365115/">Denis</a>
+<img src=".github/hi.gif" width="30px" alt="hi" />
 
 <p align="center">
  <a href="mailto:denisladeira1@gmail.com"><img src="https://github.com/denisfloyd/denisfloyd/blob/main/.github/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
